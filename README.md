@@ -1,2 +1,4 @@
 # Intro-to-shell-scripting
-introduction to shell scripting and basic unix command line 
+An introduction to shell scripting and basic unix command line 
+
+Aimed at understanding basic scripting and unix
