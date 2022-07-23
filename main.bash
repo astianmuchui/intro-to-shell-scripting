@@ -25,12 +25,12 @@ fi
 # IF ELSE 
 if ["$NAME" === "Jane"]
  then
-	echo "Jane is your name"
-	else
-		echo "Not jane"
-	elif ["$NAME" == "Jack"]
-		then 
-			echo "Jack is your name"
+  echo "Jane is your name"
+   else
+    echo "Not jane"
+   elif ["$NAME" == "Jack"]
+   then 
+    echo "Jack is your name"
 	
 fi		
 
@@ -82,7 +82,7 @@ else
 fi
 
 
-# CASE STATEMENT 
+# SWITCH AND CASE STATEMENT 
 read -p "Are you okay? Y/N" ANSWER
 
 case "$ANSWER" in 
